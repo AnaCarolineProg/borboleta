@@ -1,2 +1,2 @@
 # borboleta
--FullStack – Desenvolvedores sênior
+- FullStack – Desenvolvedores sênior
