@@ -1,2 +1,2 @@
-# borboleta
- Desenvolvimento de sistemas
+# Borboleta
+- FrontEnd – Desenvolvedores júnior e pleno
